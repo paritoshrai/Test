@@ -1,3 +1,4 @@
-# Test
-I am doing this to understand how GiHub works
-This is my Read me file for Unit3
+# testrepo
+test repo 
+
+This is a Test Repository for MSDS 6306 - Doing Data Science
